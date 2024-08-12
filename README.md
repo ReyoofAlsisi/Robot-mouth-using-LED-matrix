@@ -1,1 +1,3 @@
 # Robot-mouth-using-LED-matrix
+
+I connected an LED matrix to an Arduino to create a robotic mouth. First, I wired the LED matrix to the Arduino by linking each row and column of LEDs to specific pins on the microcontroller, allowing precise control over each individual LED. After setting up the hardware, I wrote Arduino code to manage the LED matrix. The code enables the LED matrix to display animations that simulate mouth movements, such as opening and closing or forming different expressions. This setup allows the robotic mouth to visually convey various emotions and responses, enhancing the robot's interaction and communication capabilities.
